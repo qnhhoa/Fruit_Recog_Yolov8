@@ -1,0 +1,4 @@
+train: /home/thuannd/Yolov8/datasets/fresh_or_rotten
+val: /home/thuannd/Yolov8/datasets/fresh_or_rotten
+nc: 26
+names: ['AppleFresh','AppleRotten','BananaRotten','BananaUnripe','DragonFruitFresh','DragonFruitRotten','GuavaFresh','GuavaRotten','MangoFresh','MangoRotten','MangoUnripe','OrangesFresh','OrangesRotten','OrangesUnripe','PapayaFresh','PapayaRotten','PapayaUnripe','PomegranateFresh','PomegranateRotten','StrawberryFresh','StrawberryUnripe','TomatoFresh','TomatoRotten','TomatoUnripe','BananaFresh','StrawberryRotten']
